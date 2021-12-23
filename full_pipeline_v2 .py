@@ -147,8 +147,6 @@ while(1):
     prevPts=good_new.reshape(-1,1,2)  #to condition the output image to pass as a previous frame
 
     cv.imshow("MAK",resize_mask)     
-    #cv.imshow("full",frame)
-    #cv.imshow("TEST",resize_mask)
     if(cv.waitKey(1) & 0xFF== ord('q')):
         break
 
