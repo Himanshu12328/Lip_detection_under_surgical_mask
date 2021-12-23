@@ -29,7 +29,7 @@ pip install -r packages.txt
 ### Installing
 
 * Download all the files in one folder along with the model provided in the drive link above.
-* Change the location of the model in fullpipelineV2.py.
+* Change the location of the model in full_pipeline_v2.py.
 * Before running install all the necessary dependencies in your coding environment using terminal.
 
 ### Executing program
